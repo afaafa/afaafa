@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afaafa
-- 👀 I’m interested in web developer, especially front-end web developer. I'm also interested in ui/ux enthusiast.
+- 👀 I’m interested in web developer, especially front-end web developer. I'm also interested in ui/ux design enthusiast.
 - 🌱 I’m currently learning about HTML, CSS, SASS, Javascript, React js, and vue js. 
 - 💞️ I’m looking to collaborate on web development project.
-- 📫 How to reach me, you can send me an email afhazachra@gmail.com.
+- 📫 How to reach me, you can send me an email whenever you want on afhazachra@gmail.com.
